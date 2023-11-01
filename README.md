@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Farid huseynli</h1>
 <h3 align="center">Security Analyst And IT Support</h3>
 
+![1678295083292](https://github.com/Faridhuseynli2/Farid-Huseynli/assets/118023616/910527c5-8ac5-4913-931d-a554b38dcfe6)
+
+
+
 - 🔭 I’m currently working on [Subdomain Brute Force Tool](https://github.com/Faridhuseynli2/Subfardomain)
 
 - 🌱 I’m currently learning **AI security**
